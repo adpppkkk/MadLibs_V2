@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MadLibs</string>
+    <string name="title">Mad Libs!</string>
+    <string name="libTitle">Animal Farm</string>
+    <string name="author">By Jerry Guo And </string>
+    <string name="plain"> </string>
+    <string name="noun">noun</string>
+    <string name="adjective">adjective</string>
+    <string name="verb">verb</string>
+    <string name="s1_1">No animal must ever live in a </string>
+    <string name="s1_2">, or sleep in</string>
+    <string name="s2_1">a</string>
+    <string name="s2_2">, or wear clothes, or drink </string>
+    <string name="s2_3">, or</string>
+    <string name="s3_1">smoke tobacco, or touch money, or engage in</string>
+    <string name="s4_1">trade. The habits of Man are </string>
+    <string name="s4_2">. And, above</string>
+    <string name="s5_1">all, no animal must ever </string>
+    <string name="s5_2"> over his own</string>
+    <string name="s6_1">kind. Weak or </string>
+    <string name="s6_2">, clever or </string>
+    <string name="s6_3">, we</string>
+    <string name="s7_1">are all brothers. No animal must ever </string>
+    <string name="s8_1">any other animal. All animals are equal.</string>
+    <string name="ending">See how much you miss when you censor?</string>
+</resources>

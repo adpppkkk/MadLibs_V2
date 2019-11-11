@@ -66,6 +66,7 @@
             android:hint="@string/noun"
             android:textColor="@color/white"
             android:textStyle="bold" />
+
     </com.google.android.material.textfield.TextInputLayout>
 
 
@@ -125,6 +126,7 @@
             android:hint="@string/adjective"
             android:textColor="@color/white"
             android:textStyle="bold" />
+
     </com.google.android.material.textfield.TextInputLayout>
 
 
@@ -145,6 +147,7 @@
             android:hint="@string/verb"
             android:textColor="@color/white"
             android:textStyle="bold" />
+
     </com.google.android.material.textfield.TextInputLayout>
 
 
